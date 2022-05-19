@@ -11,4 +11,4 @@
     } else {
       helloSpeaker.speak(names[i]);
     }
-  })();
+  }();
